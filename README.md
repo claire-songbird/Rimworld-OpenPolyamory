@@ -1,5 +1,5 @@
 # Songbird's Open Polyamory
-**Rimworld polyamory made simple!
+**Rimworld polyamory made simple!**
 *Adds the trait "Free Love!" which when given to a pawn disables negative thoughtdefs that prevent vanilla polyamory.*
 
 ## What is this?
