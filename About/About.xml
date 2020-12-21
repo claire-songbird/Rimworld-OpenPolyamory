@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Songbird's Open Polyamory</name>
+	<author>crsongbird</author>
+	<url></url>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>crsongbird.openpolyamory</packageId>
+	<incompatibleWith>
+	</incompatibleWith>
+	<description>Adds the trait "Free Love!" which when given to a pawn disables negative thoughtdefs that prevent vanilla polyamory.
+	
+	A simple XML mod and harmony patch implementing a trait that simulates 'relationship anarchy' or other forms of polyamory. This simple implementation is compatible with Polyamory Beds, Individuality, SafeJobWorld, and other mods affecting relationships. 
+	
+	This patch allows polyamorous relationships and disables most negative thoughtdefs without requirng you to install Rational Romance 2 or Psychology. It's probably not compatible with either of those mods. If you manually sort your load order then load it where you load other trait mods, but it probably doesn't really matter.	</description>
+</ModMetaData>

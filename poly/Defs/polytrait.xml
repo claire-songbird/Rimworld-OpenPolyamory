@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TraitDef>
+		<defName>crsopenpoly</defName>
+		<commonality>0.25</commonality>
+		<degreeDatas>
+			<li>
+				<label>Free Love!</label>
+				<description>{PAWN_nameDef} does not care when their lover or partner has fun with other people, and doesnt mind sharing a bed with strangers. {PAWN_nameDef} describes themselves as a relationship anarchist who does not believe love can be structured.
+				
+				What loose morals is to some is a loving relationship to others.</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

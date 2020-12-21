@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThoughtDef[defName="CheatedOnMe"]/nullifyingTraits</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThoughtDef[defName="CheatedOnMe"]</xpath>
+			<value>
+				<nullifyingTraits>
+					<li>crsopenpoly</li>
+				</nullifyingTraits>
+			</value>
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThoughtDef[defName="CheatedOnMe"]/nullifyingTraits</xpath>
+			<value>
+				<li>crsopenpoly</li>
+			</value>
+		</match>
+	</Operation>
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThoughtDef[defName="CheatedOnMeMood"]/nullifyingTraits</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThoughtDef[defName="CheatedOnMeMood"]</xpath>
+			<value>
+				<nullifyingTraits>
+					<li>crsopenpoly</li>
+				</nullifyingTraits>
+			</value>
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThoughtDef[defName="CheatedOnMeMood"]/nullifyingTraits</xpath>
+			<value>
+				<li>crsopenpoly</li>
+			</value>
+		</match>
+	</Operation>
+		<Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThoughtDef[defName="Affair"]/nullifyingTraits</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThoughtDef[defName="Affair"]</xpath>
+			<value>
+				<nullifyingTraits>
+					<li>crsopenpoly</li>
+				</nullifyingTraits>
+			</value>
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThoughtDef[defName="Affair"]/nullifyingTraits</xpath>
+			<value>
+				<li>crsopenpoly</li>
+			</value>
+		</match>
+	</Operation>
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThoughtDef[defName="WantToSleepWithSpouseOrLover"]/nullifyingTraits</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThoughtDef[defName="WantToSleepWithSpouseOrLover"]</xpath>
+			<value>
+				<nullifyingTraits>
+					<li>crsopenpoly</li>
+				</nullifyingTraits>
+			</value>
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThoughtDef[defName="WantToSleepWithSpouseOrLover"]/nullifyingTraits</xpath>
+			<value>
+				<li>crsopenpoly</li>
+			</value>
+		</match>
+	</Operation>
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/ThoughtDef[defName="SharedBed"]/nullifyingTraits</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThoughtDef[defName="SharedBed"]</xpath>
+			<value>
+				<nullifyingTraits>
+					<li>crsopenpoly</li>
+				</nullifyingTraits>
+			</value>
+		</nomatch>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThoughtDef[defName="SharedBed"]/nullifyingTraits</xpath>
+			<value>
+				<li>crsopenpoly</li>
+			</value>
+		</match>
+	</Operation>
+</Patch>
+
+
