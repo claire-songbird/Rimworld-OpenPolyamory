@@ -1,7 +1,7 @@
 # Songbird's Open Polyamory
 **Rimworld polyamory made simple!**
 *Adds the trait "Free Love!" which when given to a pawn disables negative thoughtdefs that prevent vanilla polyamory.*
-[Download Here!](https://github.com/claire-songbird/Rimworld-OpenPolyamory/releases/download/1.2/Rimworld-OpenPolyamory.zip)
+[Download Here!](https://github.com/crsongbird/Rimworld-OpenPolyamory/releases/download/1.2/Rimworld-OpenPolyamory.zip)
 
 ## What is this?
 A simple XML mod and harmony patch implementing a trait that simulates 'relationship anarchy' or other forms of polyamory. This simple implementation is compatible with Polyamory Beds, Individuality, SafeJobWorld, and other mods affecting relationships. Should be compatible with almost everything.
